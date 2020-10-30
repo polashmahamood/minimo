@@ -1,0 +1,95 @@
+
+h1 h2 h3 h4 h5 h6{
+    font-family: 'Playfair Display', serif;
+}
+
+.header{
+    padding:30px 0;
+}
+.menu ul li{
+    padding:0 25px;
+}
+.menu ul li a{
+     color:#8a8a8a !important;
+     font-size: 14px;
+     font-weight: 600;
+     text-transform: uppercase;
+}
+.comment{
+    padding:80px 0;
+}
+.comment h5{
+    color: #8a8a8a ;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.comment h2{
+    color: #8a8a8a ;
+    font-size: 30px;
+    
+}
+.comment p{
+    color: #8a8a8a ;
+    text-align: justify;
+    font-size: 14px;
+}
+/* Gallery */
+.gallery-content h2{
+    color: #8a8a8a;
+    font-size: 30px;
+}
+.gallery-content h4{
+    padding:20px 0;
+    color:#8a8a8a ;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+/* signup */
+.sign-up{
+   margin-top: 100px;
+   background: #f0f0f0;
+   padding:80px 0;
+   
+}
+.sign-up h3{
+    font-size: 30px;
+}
+.input-group{
+ border-bottom: 2px solid ;
+}
+.form-control{
+    border: none !important;
+    background: transparent !important;
+    font-size: 14px;
+}
+.input-group-text{
+  border: none !important;
+  background:transparent !important;
+}
+.g-custom{
+    margin-top: 100px;;
+}
+/* button */
+.btn-custom{   
+    border: 2px solid #626262 !important;
+    border-radius: 0px !important;
+    padding:15px 30px !important;
+    background: transparent !important;
+    color: #626262 !important;
+}
+.btn-custom:hover{
+    background: #626262 !important;
+    color:#f0f0f0 !important;
+
+}
+/* footer */
+.custom-list li a{ 
+    color:#8a8a8a !important ;
+    text-decoration: none;
+}   
+i{
+    color: #626262;
+}
+.footer{
+   margin-top: 150px;
+}
